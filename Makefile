@@ -1,3 +1,5 @@
+# Project: Mehdi Nourollah's Portfolio
+# Author: Mehdi Nourollah
 
 all: index.html
 
